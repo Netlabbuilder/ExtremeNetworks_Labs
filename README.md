@@ -1,2 +1,2 @@
-# ExtremeNetworks_Labs
-All labs and configs with ExtremeNetworks
+# ExtremeNetworks_notes
+My notes on networking with ExtremeNetworks.
