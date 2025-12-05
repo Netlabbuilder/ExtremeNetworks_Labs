@@ -1,2 +1,1 @@
-The default login credentials rwa/rwa.
-
+The default login credentials: `rwa/rwa`
